@@ -1,0 +1,4 @@
+main: net.lukeiscoding.spigot.spigotrichpresence.SpigotRichPresence
+name: SpigotRichPresence
+version: 0.1.0
+author: LukeIsCoding
